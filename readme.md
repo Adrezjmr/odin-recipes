@@ -1,0 +1,1 @@
+En este proyecto creare una pagina de recetas en html, creando archivos html, llenandolos con informacion y con vinculos a cada una de las recetas indicadas.
